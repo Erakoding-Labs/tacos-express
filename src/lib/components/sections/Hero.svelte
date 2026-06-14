@@ -7,7 +7,7 @@
 	import ArrowRight from '@lucide/svelte/icons/arrow-right';
 
 	const heroImg =
-		'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?auto=format&fit=crop&w=1400&q=80';
+		'https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1400&q=80';
 </script>
 
 <section class="relative overflow-hidden bg-charcoal-950 pt-28 pb-16 sm:pt-32 lg:pt-36 lg:pb-24">

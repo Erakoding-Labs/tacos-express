@@ -9,7 +9,7 @@ const img = (id: string, w = 900) =>
 	`https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&q=80`;
 
 export const gallery: GalleryImage[] = [
-	{ src: img('1565299624946-b28f40a0ca4b', 1100), alt: 'Fresh potato, egg and cheese tacos', category: 'Tacos', span: true },
+	{ src: img('1565958011703-44f9829ba187', 1100), alt: 'Fresh potato, egg and cheese tacos', category: 'Tacos', span: true },
 	{ src: img('1611250188496-e966043a0629'), alt: 'Tender barbacoa tacos with cilantro and onion', category: 'Tacos' },
 	{ src: img('1626700051175-6818013e1d4f'), alt: 'Hand-rolled breakfast burrito', category: 'Burritos' },
 	{ src: img('1613514785940-daed07799d9b'), alt: 'House-made salsa roja and tortilla chips', category: 'Salsa' },

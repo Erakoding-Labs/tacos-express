@@ -30,7 +30,7 @@ export const menu: MenuCategory[] = [
 				description:
 					'Crispy seasoned potatoes, fluffy scrambled eggs and melted cheese folded into a warm flour tortilla. Our #1 seller.',
 				price: '$2.49',
-				image: img('1565299624946-b28f40a0ca4b'),
+				image: img('1565958011703-44f9829ba187'),
 				popular: true,
 				veg: true
 			},
@@ -116,7 +116,7 @@ export const menu: MenuCategory[] = [
 				name: 'Classic P.E.C. Taco',
 				description: 'The original — golden potatoes, eggs and cheese. Add salsa verde or roja.',
 				price: '$2.49',
-				image: img('1565299624946-b28f40a0ca4b'),
+				image: img('1565958011703-44f9829ba187'),
 				popular: true,
 				veg: true
 			},
@@ -179,7 +179,7 @@ export const menu: MenuCategory[] = [
 				name: 'Jamaica (Hibiscus)',
 				description: 'Tart and refreshing hibiscus agua fresca.',
 				price: '$2.49',
-				image: img('1497534446932-c925b458314a'),
+				image: img('1474722883778-792e7990302f'),
 				veg: true
 			},
 			{

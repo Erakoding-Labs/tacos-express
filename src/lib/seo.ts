@@ -9,7 +9,7 @@ export type SeoInput = {
 };
 
 const DEFAULT_IMAGE =
-	'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?auto=format&fit=crop&w=1200&q=80';
+	'https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1200&q=80';
 
 export function buildSeo(input: SeoInput = {}) {
 	const title = input.title

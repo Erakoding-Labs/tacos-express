@@ -8,8 +8,7 @@ export type SeoInput = {
 	type?: 'website' | 'article';
 };
 
-const DEFAULT_IMAGE =
-	'https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1200&q=80';
+const DEFAULT_IMAGE = 'https://tacoexpress-menard.com/og-image.jpg';
 
 export function buildSeo(input: SeoInput = {}) {
 	const title = input.title
